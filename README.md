@@ -49,7 +49,7 @@ follow the steps to get the following result:
 
 ## GUI helpful schematic
 
-<img src="https://github.com/YerinKim125/PySupercharge/blob/main/img/label-window-updated.png", width="600">
+<img src="https://github.com/YerinKim125/PySupercharge/blob/main/img/label-window-updated.png" width="600">
 
 ***
 ## Contributions
